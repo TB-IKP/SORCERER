@@ -53,7 +53,7 @@ This approach guarantees a quick replacement of photodiodes.
 However, this creates an intricate geometry.
 It is, thus, recommended to use rapid-prototyping techniques.
 Standard fused filament fabrication might not be capable of reproducing the needed level of detail.
-Good experience has been made with selective fusing (laser sintering) of polyamide PA2200 
+Good experience has been made with selective fusing (laser sintering) of polyamide PA2200 [[6]](#PA2200)
 in a granular bed of the same material.
 The resulting structures can be used in vacua down to at least 10^-6 mbar.
 
@@ -66,13 +66,13 @@ You are invited to use, modify or share SORCERER.
 If you used SORCERER or any modified version of it to obtain results for a publication, 
 please cite the original publication [[1]](#Bec19a).
 Information on your use cases, experiences,
-and ideas for future improvements is highly appreciated!
+and ideas for future improvements are highly appreciated!
 
 Copyright (C) 2021 Tobias Beck (tbeck@ikp.tu-darmstadt.de)
 
 ## Acknowledgements
 
-The author would like to thank C. Fransen for valuable advice
+The authors would like to thank C. Fransen for valuable advice
 and the technical staff of the precision mechanical workshop 
 of the Institute for Fluid Mechanics and Aerodynamics, TU Darmstadt 
 for production of all mounting structures presented here.
@@ -88,5 +88,5 @@ and the European Union within the Horizon 2020 research and innovation programme
 <a name='Dew12a'>[3]</a> A. Dewald, O. Möller, and P. Petkov, Prog. Part. Nucl. Phys. **67**, 786 (2012). [`doi:10.1016/j.ppnp.2012.03.003`](https://doi.org/10.1016/j.ppnp.2012.03.003).\
 <a name='Vos14a'>[4]</a> P. Voss *et al.*, Nucl. Instrum. Methods Phys. Res. A **746**, 87 (2014). [`doi:10.1016/j.nima.2014.02.006`](https://doi.org/10.1016/j.nima.2014.02.006).\
 <a name='Buc16a'>[5]</a> D. Bucurescu *et al.*, Nucl. Instrum. Methods Phys. Res. A **837**, 1 (2016). [`doi:10.1016/j.nima.2016.08.052`](https://doi.org/10.1016/j.nima.2016.08.052).\
-
+<a name='PA2200'>[6]</a> Product information PA2200 (in German). [`https://www.wehl-partner.de/images/stories/Materialdaten/lasersintern/laser-sinter-pa2200_product_information_de.pdf`](https://www.wehl-partner.de/images/stories/Materialdaten/lasersintern/laser-sinter-pa2200_product_information_de.pdf).
 
