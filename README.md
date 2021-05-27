@@ -3,6 +3,7 @@
 ![Variants of SORCERER_v2](media/SORCERER_v2_variants.png)
 
 [![License](https://img.shields.io/badge/License-GPL%20v3+-blue.svg)](LICENSE)
+[![doi:10.1016/j.nima.2019.163090](https://img.shields.io/badge/DOI-10.1016%2Fj.nima.2019.163090-blue.svg)](https://doi.org/10.1016/j.nima.2019.163090)
 
 SORCERER is customizable and cost-efficient particle-detection system 
 for transfer experiments at ROSPHERE.
@@ -90,7 +91,7 @@ and the European Union within the Horizon 2020 research and innovation programme
 
 ## References
 
-<a name='Bec19aa'>[1]</a> T. Beck *et al.*, Nucl. Instrum. Methods Phys. Res. A **951**, 163090 (2020). [`doi:10.1016/j.nima.2019.163090`](https://doi.org/10.1016/j.nima.2019.163090).\
+<a name='Bec19a'>[1]</a> T. Beck *et al.*, Nucl. Instrum. Methods Phys. Res. A **951**, 163090 (2020). [`doi:10.1016/j.nima.2019.163090`](https://doi.org/10.1016/j.nima.2019.163090).\
 <a name='Klu00a'>[2]</a> T. Klug *et al.*, Phys. Lett. B **495**, 55 (2000). [`doi:10.1016/S0370-2693(00)01233-8`](https://doi.org/10.1016/S0370-2693(00)01233-8).\
 <a name='Dew12a'>[3]</a> A. Dewald, O. Möller, and P. Petkov, Prog. Part. Nucl. Phys. **67**, 786 (2012). [`doi:10.1016/j.ppnp.2012.03.003`](https://doi.org/10.1016/j.ppnp.2012.03.003).\
 <a name='Vos14a'>[4]</a> P. Voss *et al.*, Nucl. Instrum. Methods Phys. Res. A **746**, 87 (2014). [`doi:10.1016/j.nima.2014.02.006`](https://doi.org/10.1016/j.nima.2014.02.006).\
