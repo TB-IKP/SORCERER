@@ -1,5 +1,7 @@
 # SORCERER: solar cells for reaction experiments at ROSPHERE
 
+![Variants of SORCERER_v2](media/SORCERER_v2_variants.png)
+
 [![License](https://img.shields.io/badge/License-GPL%20v3+-blue.svg)](LICENSE)
 
 SORCERER is customizable and cost-efficient particle-detection system 
@@ -34,8 +36,13 @@ either directly or with few modifications.
 
 Currently, two versions of SORCERER exist:
 
-- SORCERER_v1 with 6 photodiodes in a single ring and
-- [SORCERER_v2](v2_18cells) with 18 photodiodes in two rings.
+- **SORCERER_v1** with **6 photodiodes** in a single ring: This is the original version described in Ref. [[1]](#Bec19a).
+The CAD files are currently re-engineered.
+- [**SORCERER_v2**](v2_18cells) with **18 photodiodes** in two rings: This is an updated version
+for higher solid-angle coverage. If mounted at backward angles with respect to the incident ion beam,
+the usage of high-Z material for protection of the cables, 
+such as [SORCERER_v2_cable_protection](v2_18cells/SORCERER_v2_cable_protection), is recommended.
+It is attached to the printed body by screws of dimension M1.4x4.
 
 Each version vX (X=1,2) contains three individual constructions;
 the basic structure (`SORCERER_vX_basic_structure`) 
