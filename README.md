@@ -37,8 +37,9 @@ either directly or with few modifications.
 
 Currently, two versions of SORCERER exist:
 
-- **SORCERER_v1** with **6 photodiodes** in a single ring: This is the original version described in Ref. [[1]](#Bec19a).
-The CAD files are currently re-engineered.
+- [**SORCERER_v1**](v1_6cells) with **6 photodiodes** in a single ring: 
+This is the original version described in Ref. [[1]](#Bec19a).
+Currently, only the CAD files for the DSAM version are available.
 - [**SORCERER_v2**](v2_18cells) with **18 photodiodes** in two rings: This is an updated version
 for higher solid-angle coverage. If mounted at backward angles with respect to the incident ion beam,
 the usage of high-Z material for protection of the cables, 
@@ -72,7 +73,7 @@ terms of the GNU General Public License, version 3 or later.
 For details see [LICENSE](LICENSE).
 You are invited to use, modify or share SORCERER.
 If you used SORCERER or any modified version of it to obtain results for a publication, 
-please cite the original publication [[1]](#Bec19a).
+please cite the original publication [[1]](#Bec19a) and this repository.
 Information on your use cases, experiences,
 and ideas for future improvements are highly appreciated!
 
